@@ -1,5 +1,5 @@
 # 公司层面
-![1602652966904](C:\Users\hirryli\AppData\Roaming\Typora\typora-user-images\1602652966904.png)
+![1602652966904](./image/1602652966904.png)
 
 愿景、目标
 产品定位及产品边界
